@@ -5,7 +5,11 @@ function sayhello()
 {
     console.log("hello!");
 }
-function newfeatures()
+function newfeatures1()
+{
+    console.log("new features add in new branch");
+}
+function newfeatures2()
 {
     console.log("new features add in new branch");
 }
